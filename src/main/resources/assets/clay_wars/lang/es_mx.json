@@ -1,0 +1,10 @@
+{
+  "block.clay_wars.house": "Casa",
+  "item.clay_wars.radar": "Radar de reinos",
+  "entity.clay_wars.red_soldier": "Soldadito Rojo",
+  "entity.clay_wars.blue_soldier": "Soldadito Azul",
+  "entity.clay_wars.mini_creeper": "Mini Creeper",
+  "item.clay_wars.mini_creeper_spawn_egg": "Huevo generador de Mini Creeper",
+  "item.clay_wars.red_soldier_spawn_egg": "Huevo generador de Soldadito Rojo",
+  "item.clay_wars.blue_soldier_spawn_egg": "Huevo generador de Soldadito Azul"
+}

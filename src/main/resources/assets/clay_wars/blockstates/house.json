@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "stage=0,blue=false": {
+      "model": "clay_wars:block/house_0_stakes"
+    },
+    "stage=1,blue=false": {
+      "model": "clay_wars:block/house_1_foundation"
+    },
+    "stage=2,blue=false": {
+      "model": "clay_wars:block/house_2_walls"
+    },
+    "stage=0,blue=true": {
+      "model": "clay_wars:block/house_0_stakes"
+    },
+    "stage=1,blue=true": {
+      "model": "clay_wars:block/house_1_foundation"
+    },
+    "stage=2,blue=true": {
+      "model": "clay_wars:block/house_2_walls"
+    },
+    "stage=3,blue=false": {
+      "model": "clay_wars:block/house_3_done_red"
+    },
+    "stage=3,blue=true": {
+      "model": "clay_wars:block/house_3_done_blue"
+    }
+  }
+}

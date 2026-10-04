@@ -1,0 +1,10 @@
+{
+  "block.clay_wars.house": "House",
+  "item.clay_wars.radar": "Kingdom Radar",
+  "entity.clay_wars.red_soldier": "Red Soldier",
+  "entity.clay_wars.blue_soldier": "Blue Soldier",
+  "entity.clay_wars.mini_creeper": "Mini Creeper",
+  "item.clay_wars.mini_creeper_spawn_egg": "Mini Creeper Spawn Egg",
+  "item.clay_wars.red_soldier_spawn_egg": "Red Soldier Spawn Egg",
+  "item.clay_wars.blue_soldier_spawn_egg": "Blue Soldier Spawn Egg"
+}
